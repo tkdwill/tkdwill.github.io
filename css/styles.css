@@ -10970,3 +10970,12 @@ section.resume-section .resume-section-content {
     padding-bottom: 5rem;
   }
 }
+
+/* New styles for country flags and names */
+.country {
+  text-align: center; /* aligns the flag and the name in the center */
+}
+
+.country p {
+  margin-top: 10px; /* adds a space between the flag and the name */
+}
